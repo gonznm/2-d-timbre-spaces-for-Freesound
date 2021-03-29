@@ -1,2 +1,2 @@
-# 2-d-timbre-spaces-for-Freesound
-Final project for the MIR course in Sound and Music Computing master.
+# Comparison of 2-D timbre spaces for Freesound sounds
+This code is part of my final project for the Music Information Retrieval course of the Sound and Music Computing Master at the Music Technology Group, in Universitat Pompeu Fabra (Barcelona). The notebook compares four different 2-D timbre spaces to visualize Freesound sounds, result of the combination of two feature extraction methods and two dimensionality reduction techniques.
